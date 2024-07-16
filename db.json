@@ -1,0 +1,87 @@
+{
+  "allVideos": [
+    {
+      "caption": "LAILAKAME Lyric",
+      "imageUrl": "https://i.ytimg.com/vi/jw1L707tkrw/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/jw1L707tkrw",
+      "id": 1
+    },
+    {
+      "caption": "Ranam Title Track",
+      "imageUrl": "https://i.ytimg.com/vi/yTRHnroQZuM/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/yTRHnroQZuM",
+      "id": 2
+    },
+    {
+      "caption": "New York Nagaram",
+      "imageUrl": "https://i.ytimg.com/vi/rxp_zOtY-IA/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/rxp_zOtY-IA",
+      "id": 3
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "Hindi Song",
+      "allVideos": [],
+      "id": 1
+    },
+    {
+      "categoryName": "Malayalam Song",
+      "allVideos": [
+        {
+          "caption": "LAILAKAME Lyric",
+          "imageUrl": "https://i.ytimg.com/vi/jw1L707tkrw/maxresdefault.jpg",
+          "embedLink": "https://www.youtube.com/embed/jw1L707tkrw",
+          "id": 1
+        },
+        {
+          "caption": "Ranam Title Track",
+          "imageUrl": "https://i.ytimg.com/vi/yTRHnroQZuM/maxresdefault.jpg",
+          "embedLink": "https://www.youtube.com/embed/yTRHnroQZuM",
+          "id": 2
+        }
+      ],
+      "id": 2
+    },
+    {
+      "categoryName": "Tamil Song",
+      "allVideos": [
+        {
+          "caption": "New York Nagaram",
+          "imageUrl": "https://i.ytimg.com/vi/rxp_zOtY-IA/maxresdefault.jpg",
+          "embedLink": "https://www.youtube.com/embed/rxp_zOtY-IA",
+          "id": 3
+        },
+        {
+          "caption": "Ranam Title Track",
+          "imageUrl": "https://i.ytimg.com/vi/yTRHnroQZuM/maxresdefault.jpg",
+          "embedLink": "https://www.youtube.com/embed/yTRHnroQZuM",
+          "id": 2
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "caption": "LAILAKAME Lyric",
+      "url": "https://www.youtube.com/embed/jw1L707tkrw",
+      "timeStamp": "10/07/2024, 14:46:18",
+      "id": 2
+    },
+    {
+      "caption": "LAILAKAME Lyric",
+      "url": "https://www.youtube.com/embed/jw1L707tkrw",
+      "timeStamp": "10/07/2024, 15:18:34",
+      "id": 3
+    },
+    {
+      "timeStamp": "16/07/2024, 01:35:20",
+      "id": 4
+    },
+    {
+      "timeStamp": "16/07/2024, 01:35:28",
+      "id": 5
+    }
+  ]
+}
